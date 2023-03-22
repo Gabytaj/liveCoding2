@@ -1,0 +1,8 @@
+Retro Gabriela Jacinto
+
+1.- Se ve que esta pensando constantemente el problema
+2.- balbusea mucho la explicacion, le hace falta hablar un poco mas fuerte y con confianza al explicar el codigo.
+3.- Se ve un codigo limpio y ordenado pero le hace falta documentarlo.
+4.- Verifico si el codigo funcionaba e intento revisar la consola para ver si encontraba algun error.
+5.- No se termino el ejercicio.
+6.- busco alguna alternativa para mostrar el mensaje de que no se pueda dar click al boton si el input esta vacio pero fue como lo pide el ejercicio.
